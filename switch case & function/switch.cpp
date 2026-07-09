@@ -10,7 +10,7 @@ int main(){
         {
         case 1:
            cout<<"vikash";
-           continue;;
+           continue;
         default:
         cout<<"happy birthay anjali";
             break;
