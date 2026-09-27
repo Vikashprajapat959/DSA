@@ -1,0 +1,14 @@
+#include<iostream>
+using namespace std;
+int main(){
+
+    list<int>mylist;
+    mylist.push_back(10);
+        mylist.push_back(20);
+
+            mylist.push_back(30);
+
+                mylist.push_back(40);
+mylist.push_front(100);
+    return 0;
+}
